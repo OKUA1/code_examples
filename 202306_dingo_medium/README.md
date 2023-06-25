@@ -3,3 +3,4 @@ In order to use this code example you can either generate your own [Open Weather
 ```bash
 export OPENWEATHERMAP_API_KEY=your_api_key
 ```
+**ATTENTION:** after generating the key, it takes several hours until it is activated!
